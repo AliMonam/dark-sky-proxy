@@ -1,7 +1,7 @@
 {
   "name": "Dark Sky Proxy",
   "description": "A simple express server that proxies requests to dark sky api",
-  "repository": "https://github.com/devellopah/dark-sky-proxy",
+  "repository": "https://github.com/AliMonam/dark-sky-proxy",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": [
     "node",
