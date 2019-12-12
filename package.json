@@ -5,13 +5,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/devellopah/dark-sky-proxy"
+    "url": "https://github.com/AliMonam/dark-sky-proxy"
   },
-  "author": "Islam Ibakaev <islamibakaev@gmail.com> (https://github.com/devellopah)",
+  "author": "Islam Ibakaev <ali@comfable.com> (https://github.com/AliMonam)",
   "bugs": {
-    "url": "https://github.com/devellopah/dark-sky-proxy/issues"
+    "url": "https://github.com/AliMonam/dark-sky-proxy/issues"
   },
-  "homepage": "https://github.com/devellopah/dark-sky-proxy",
+  "homepage": "https://github.com/AliMonam/dark-sky-proxy",
   "scripts": {
     "start": "nodemon index.js"
   },
